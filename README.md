@@ -10,4 +10,7 @@ O trabalho foi feito com base no CRISP-DM.<br>
 
 Dados retirados do Kaggle: https://www.kaggle.com/shivam2503/diamonds <br>
 
+
+Vídeo de apresentação disponível em:  https://youtu.be/RWPTFLdwJgs<br>
+
 Data de apresentação:  ‎29‎ de ‎agosto‎ de ‎2021
